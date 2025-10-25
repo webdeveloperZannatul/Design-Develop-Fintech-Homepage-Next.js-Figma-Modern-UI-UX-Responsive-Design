@@ -1,0 +1,2 @@
+# Design-Develop-Fintech-Homepage-Next.js-Figma-Modern-UI-UX-Responsive-Design
+I’m excited to present my concept for a Fintech Platform Homepage — a sleek, responsive, and dynamic website built using Next.js, designed in Figma, and guided by modern UI/UX principles. The goal of this design is to create a trustworthy, innovative, and user-friendly experience that resonates with the financial technology audience
